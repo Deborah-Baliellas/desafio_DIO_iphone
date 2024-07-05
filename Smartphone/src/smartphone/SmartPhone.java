@@ -50,5 +50,4 @@ public class SmartPhone implements AparelhoTelefonico, ReprodutorMusical, Navega
         System.out.println("Verificando correio de Voz.");
     }
 
-
 }
